@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm an algorithm lover, born, raised, and residing in Vancouver, BC.  I live with my wife and two children and I work at [D-Wave Systems](www.dwavesys.com) benchmarking quantum processors and inventing hybrid quantum/classical algorithms.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jamie.king@gmail.com](mailto:jamie.king@gmail.com)
